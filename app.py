@@ -4,8 +4,8 @@ import datetime
 app = Flask(__name__)
 
 # Target URLs
-DESKTOP_URL = "https://psychiatric-ange-spideyofficial777-f4e984ce.koyeb.app"
-MOBILE_URL = "https://psychiatric-ange-spideyofficial777-f4e984ce.koyeb.app"
+DESKTOP_URL = "https://spideyfeedbackhub.qzz.io"
+MOBILE_URL = "https://spideyfeedbackhub.qzz.io"
 
 # Optional secret key for protected redirect
 SECRET_KEY = "q9vH2KxT8WzP4fLsYj7bUeX0pRkD1nQa"
